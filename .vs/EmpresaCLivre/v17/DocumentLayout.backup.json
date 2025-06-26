@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\sophia.tramada\\Documents\\Visual Studio 2022\\EmpresaCLivre\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4FE154D6-E275-49E5-8174-29F724D6D796}|GerenciarPessoas\\GerenciarPessoas.csproj|c:\\users\\sophia.tramada\\documents\\visual studio 2022\\empresaclivre\\gerenciarpessoas\\frmbuscapessoas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FE154D6-E275-49E5-8174-29F724D6D796}|GerenciarPessoas\\GerenciarPessoas.csproj|solutionrelative:gerenciarpessoas\\frmbuscapessoas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2977BFE7-FD77-4B6B-8CC7-EFB363F3A402}|Heranca\\Heranca.csproj|c:\\users\\sophia.tramada\\documents\\visual studio 2022\\empresaclivre\\heranca\\frmconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2977BFE7-FD77-4B6B-8CC7-EFB363F3A402}|Heranca\\Heranca.csproj|solutionrelative:heranca\\frmconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FE154D6-E275-49E5-8174-29F724D6D796}|GerenciarPessoas\\GerenciarPessoas.csproj|C:\\Users\\sophia.tramada\\Documents\\Visual Studio 2022\\EmpresaCLivre\\gerenciarpessoas\\frmcadpessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FE154D6-E275-49E5-8174-29F724D6D796}|GerenciarPessoas\\GerenciarPessoas.csproj|solutionrelative:gerenciarpessoas\\frmcadpessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2977BFE7-FD77-4B6B-8CC7-EFB363F3A402}|Heranca\\Heranca.csproj|c:\\users\\sophia.tramada\\documents\\visual studio 2022\\empresaclivre\\heranca\\frmconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2977BFE7-FD77-4B6B-8CC7-EFB363F3A402}|Heranca\\Heranca.csproj|solutionrelative:heranca\\frmconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FE154D6-E275-49E5-8174-29F724D6D796}|GerenciarPessoas\\GerenciarPessoas.csproj|C:\\Users\\sophia.tramada\\Documents\\Visual Studio 2022\\EmpresaCLivre\\gerenciarpessoas\\frmcadpessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4FE154D6-E275-49E5-8174-29F724D6D796}|GerenciarPessoas\\GerenciarPessoas.csproj|solutionrelative:gerenciarpessoas\\frmcadpessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FE154D6-E275-49E5-8174-29F724D6D796}|GerenciarPessoas\\GerenciarPessoas.csproj|C:\\Users\\sophia.tramada\\Documents\\Visual Studio 2022\\EmpresaCLivre\\gerenciarpessoas\\frmbuscapessoas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4FE154D6-E275-49E5-8174-29F724D6D796}|GerenciarPessoas\\GerenciarPessoas.csproj|solutionrelative:gerenciarpessoas\\frmbuscapessoas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2977BFE7-FD77-4B6B-8CC7-EFB363F3A402}|Heranca\\Heranca.csproj|c:\\users\\sophia.tramada\\documents\\visual studio 2022\\empresaclivre\\heranca\\poupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2977BFE7-FD77-4B6B-8CC7-EFB363F3A402}|Heranca\\Heranca.csproj|solutionrelative:heranca\\poupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,54 +22,45 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmCadPessoa.cs",
-              "DocumentMoniker": "C:\\Users\\sophia.tramada\\Documents\\Visual Studio 2022\\EmpresaCLivre\\GerenciarPessoas\\frmCadPessoa.cs",
-              "RelativeDocumentMoniker": "GerenciarPessoas\\frmCadPessoa.cs",
-              "ToolTip": "C:\\Users\\sophia.tramada\\Documents\\Visual Studio 2022\\EmpresaCLivre\\GerenciarPessoas\\frmCadPessoa.cs",
-              "RelativeToolTip": "GerenciarPessoas\\frmCadPessoa.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T20:03:15.325Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "frmBuscaPessoas.cs",
-              "DocumentMoniker": "C:\\Users\\sophia.tramada\\Documents\\Visual Studio 2022\\EmpresaCLivre\\GerenciarPessoas\\frmBuscaPessoas.cs",
-              "RelativeDocumentMoniker": "GerenciarPessoas\\frmBuscaPessoas.cs",
-              "ToolTip": "C:\\Users\\sophia.tramada\\Documents\\Visual Studio 2022\\EmpresaCLivre\\GerenciarPessoas\\frmBuscaPessoas.cs",
-              "RelativeToolTip": "GerenciarPessoas\\frmBuscaPessoas.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAlwCEAAAAYAAAAAAAAAA==",
+              "Title": "frmConta.cs",
+              "DocumentMoniker": "C:\\Users\\sophia.tramada\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Heranca\\frmConta.cs",
+              "RelativeDocumentMoniker": "Heranca\\frmConta.cs",
+              "ToolTip": "C:\\Users\\sophia.tramada\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Heranca\\frmConta.cs",
+              "RelativeToolTip": "Heranca\\frmConta.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAtwEUAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T19:46:20.165Z",
+              "WhenOpened": "2025-06-26T19:48:18.857Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "frmBuscaPessoas.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\sophia.tramada\\Documents\\Visual Studio 2022\\EmpresaCLivre\\GerenciarPessoas\\frmBuscaPessoas.cs",
-              "RelativeDocumentMoniker": "GerenciarPessoas\\frmBuscaPessoas.cs",
-              "ToolTip": "C:\\Users\\sophia.tramada\\Documents\\Visual Studio 2022\\EmpresaCLivre\\GerenciarPessoas\\frmBuscaPessoas.cs [Design]",
-              "RelativeToolTip": "GerenciarPessoas\\frmBuscaPessoas.cs [Design]",
+              "DocumentIndex": 2,
+              "Title": "Poupanca.cs",
+              "DocumentMoniker": "C:\\Users\\sophia.tramada\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Heranca\\Poupanca.cs",
+              "RelativeDocumentMoniker": "Heranca\\Poupanca.cs",
+              "ToolTip": "C:\\Users\\sophia.tramada\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Heranca\\Poupanca.cs",
+              "RelativeToolTip": "Heranca\\Poupanca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T19:18:49.27Z"
+              "WhenOpened": "2025-06-26T19:12:51.36Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmCadPessoa.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\sophia.tramada\\Documents\\Visual Studio 2022\\EmpresaCLivre\\GerenciarPessoas\\frmCadPessoa.cs",
-              "RelativeDocumentMoniker": "GerenciarPessoas\\frmCadPessoa.cs",
-              "ToolTip": "C:\\Users\\sophia.tramada\\Documents\\Visual Studio 2022\\EmpresaCLivre\\GerenciarPessoas\\frmCadPessoa.cs [Design]",
-              "RelativeToolTip": "GerenciarPessoas\\frmCadPessoa.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "frmConta.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sophia.tramada\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Heranca\\frmConta.cs",
+              "RelativeDocumentMoniker": "Heranca\\frmConta.cs",
+              "ToolTip": "C:\\Users\\sophia.tramada\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Heranca\\frmConta.cs [Design]",
+              "RelativeToolTip": "Heranca\\frmConta.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T17:11:04.593Z"
+              "WhenOpened": "2025-06-26T19:06:47.015Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

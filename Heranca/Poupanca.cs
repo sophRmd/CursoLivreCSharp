@@ -10,13 +10,15 @@ namespace Heranca
     {
         private int numeroContaPoupanca;
         private double valorRendimento;
+        private double porc;
 
         public int NumeroContaPoupanca { get => numeroContaPoupanca; set => numeroContaPoupanca = value; }
         public double ValorRendimento { get => valorRendimento; set => valorRendimento = value; }
 
-        public void calculoRendimento()
+        public double calculoRendimento(double porc, double valor)
         {
-
+            this.valorRendimento = valor + (valor * porc / 100);
+            return this.valorRendimento;
         }
 
     }
